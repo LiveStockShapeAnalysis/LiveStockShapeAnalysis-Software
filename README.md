@@ -32,6 +32,7 @@ X64 supported only at this moment
 # References
 
 Please, when using this tool, cite the following reference:
+
 Guo, H., X. Ma, Q. Ma, K. Wang, W. Su, and D. Zhu, 2017, LSSA_CAU: An interactive 3d point clouds analysis software for body measurement of livestock with similar forms of cows or pigs: Computers and Electronics in Agriculture, v. 138, p. 60 - 68.
 
 Guo, H., Z. Li, Q. Ma, D. Zhu, W. Su, K. Wang, and F. Marinello, 2019, A bilateral symmetry based pose normalization framework applied to livestock body measurement in point clouds: Computers and Electronics in Agriculture, v. 160, p. 59 - 70.
